@@ -1,0 +1,24 @@
+.sales-income-container{
+    float: left;
+    width: 100%;    
+}
+.apexcharts-toolbar{
+    display: none !important;
+}
+.chart-holder{
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+.chart-btn-holder, .chart-holder{
+    float: left;
+    width: 100%;
+}
+.chart-btn-holder div{
+    float: right;
+}
+.chart-btn-holder div button{
+    margin: 0px 10px;
+}
+.chart-btn-holder{
+    margin-bottom: 10px;
+}

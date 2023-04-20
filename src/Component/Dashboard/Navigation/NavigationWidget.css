@@ -1,0 +1,16 @@
+.dashboard .logo{
+    background-color: black;
+    float: left;
+    width: 100%;
+    height: 76px;
+    text-align: center;
+    padding-top: 8%;
+}
+.menu-navigation{
+    float: left;
+    width: 100%;
+}
+.menu-navigation ul li{
+    list-style: none;
+    padding: 10px;
+}

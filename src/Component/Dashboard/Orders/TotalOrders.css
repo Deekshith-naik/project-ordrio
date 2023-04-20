@@ -1,0 +1,29 @@
+.order-container{
+    border-radius: 10px;
+    color: #FFF;
+    float: left;
+    width: 100%;
+}
+.order-section{
+    float: left;
+    width: 92%;
+    margin: 2% 4%;
+}
+.order-section div{
+    float: left;
+}
+.order-section div p{
+    padding-top: 10%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.order-value{
+    font-weight: bold;
+    font-size: 275%;
+}
+.order-section div.order-sec-btn{
+    float: right;
+}
+.branch-dropdwon{
+    margin-bottom: 10px;
+}

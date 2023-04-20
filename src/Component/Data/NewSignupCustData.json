@@ -1,0 +1,21 @@
+[
+    {
+        "customer": "Child Bride",
+        "device" : "Android",
+        "datetime" : "22 Oct 04:30 pm"
+    },
+    {
+        "customer": "Child Bride",
+        "device" : "IOS",
+        "datetime" : "22 Oct 04:30 pm"
+    },
+    {
+        "customer": "Child Bride",
+        "device" : "Others",
+        "datetime" : "22 Oct 04:30 pm"
+    },{
+        "customer": "Child Bride",
+        "device" : "Android",
+        "datetime" : "22 Oct 04:30 pm"
+    }
+]

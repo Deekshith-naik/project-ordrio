@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dashboard",
+        "icon": "bi bi-house-door"
+    },
+    {
+        "name": "Orders",
+        "icon": "bi bi-card-list"
+    },
+    {
+        "name": "Products",
+        "icon": "bi bi-bag-check"
+    },
+    {
+        "name": "Customers",
+        "icon": "bi bi-person"
+    },
+    {
+        "name": "Market Place",
+        "icon": "bi bi-shop"
+    },
+    {
+        "name": "Design",
+        "icon": "bi bi-brush-fill"
+    },
+    {
+        "name": "Prmotion",
+        "icon": "bi bi-palette"
+    },
+    {
+        "name": "Notification",
+        "icon": "bi bi-app-indicator"
+    },
+    {
+        "name": "Dispatcher",
+        "icon": "bi bi-truck"
+    },
+    {
+        "name": "Insights",
+        "icon": "bi bi-bezier2"
+    }
+]

@@ -1,0 +1,42 @@
+.recent-order-container{
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    float: left;
+    width: 100%;
+}
+.recent-order-container .left-section{
+    float: left;
+    width: 40%;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.recent-order-container .right-section{
+    float: right;
+    width: 40%;
+    text-align: right;
+}
+.recent-order-section, .recent-order-line{
+    float: left;
+    width: 100%;
+}
+.recent-order-section table{
+    width: 100%;
+}
+.recent-order-col, .recent-order-row, .recent-order-heading{
+    float: left;
+    width: 96%;
+    margin: 1% 2%;
+}
+.recent-order-col div, .recent-order-row div{
+    float: left;
+    width: 25%;
+}
+.recent-order-row{
+    font-size: 70%;
+    font-weight: bold;
+}
+.new-customer-table .recent-order-col div, .new-customer-table .recent-order-row div {
+    float: left;
+    width: 33%;
+}

@@ -1,0 +1,23 @@
+.custom-btn-style {
+    width: 25px;
+    height: 25px;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    padding-bottom: 11px;
+}
+.navbar-brand{
+    font-size: 200%;
+}
+.search-block{
+    width: 300px
+}
+.navbar-nav li.nav-item{
+    padding: 0px 20px;
+}
+.navbar-nav li.nav-item .nav-link{
+    margin-top: 0px;
+}
+.search-block input{
+    background-color: #f0f0f0;
+}

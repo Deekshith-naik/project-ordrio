@@ -1,0 +1,20 @@
+.dashboard , .dashboard-navbar {
+    float: left;
+    width: 100%;
+}
+.dashboard-widget{
+    float: left;
+    width: 50%;
+    height: 350px;
+}
+.dashboard-navbar{
+    border-bottom: 2px solid #f0f0f0;
+}
+.left-container{
+    float: left;
+    width: 15%;
+}
+.right-container{
+    float: left;
+    width: 85%;
+}
